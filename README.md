@@ -60,7 +60,9 @@ streamlit run app.py
 ```
 
 ### 5️⃣ Access Dashboard in Browser
+```arduino
 http://localhost:8501
+```
 
 ---
 
