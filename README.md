@@ -38,8 +38,8 @@ This application visualizes KPIs, interactive charts, and provides sidebar filte
 
 ### 1️⃣ Clone or Extract the Project
 ```bash
-git clone https://github.com/abdmuffid/hospital-dashboard
-cd hospital-dashboard
+git clone https://github.com/abdmuffid/healthcare-dashboard
+cd healthcare-dashboard
 ```
 
 ### 2️⃣ (Optional) Create Virtual Environment
